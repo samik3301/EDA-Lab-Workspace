@@ -312,3 +312,4 @@ mean_absolute_percentage_error
 root_mean_square_error =  sqrt(1/n *(sum(df_copy$error)))
 root_mean_square_error
 
+#end
